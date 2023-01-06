@@ -13,6 +13,12 @@
             <groupId>one.digitalinnovation</groupId>
             <artifactId>quick-start-maven</artifactId>
             <version>1.0-SNAPSHOT</version>
+            <exclusions>
+                <exclusion>
+                    <groupId>com.google.code.gson</groupId>
+                    <artifactId>gson</artifactId>
+                </exclusion>
+            </exclusions>
         </dependency>
     </dependencies>
 
