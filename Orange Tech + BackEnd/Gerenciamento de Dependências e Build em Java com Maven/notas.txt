@@ -1,0 +1,11 @@
+- Comandos: 
+	- Criar projeto: mvn archetype:generate -DgroupId=one.digitalinnovation -DartifactId=quick-start-maven -Darchetype=maven-quickstart -DinteractiveMode=false
+	- Compilar as classes: mvn compile
+	- Testar a aplicação: mvn test
+	- Empacotar o software(projeto): mvn package
+	- Limpar diretório de trabalho(apagar a pasta target): mvn clean
+	- Publicar localmente um componente(projeto): C:\projeto> mvn install
+
+- Repository local: C:\Users\Jeandson\.m2\repository
+
+- Dica: Buscar por maven archetype list no google
