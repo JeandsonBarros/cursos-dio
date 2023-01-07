@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f0db978d-8d00-41ba-b8d5-882adda6e406" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../../Gerenciamento de Dependências e Build em Java com Maven/projetos/Plugins-javadoc-exemple/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Gerenciamento de Dependências e Build em Java com Maven/projetos/Plugins-javadoc-exemple/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Gerenciamento de Dependências e Build em Java com Maven/projetos/Plugins-javadoc-exemple/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Gerenciamento de Dependências e Build em Java com Maven/projetos/Plugins-javadoc-exemple/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Gerenciamento de Dependências e Build em Java com Maven/projetos/Plugins-javadoc-exemple/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Gerenciamento de Dependências e Build em Java com Maven/projetos/Plugins-javadoc-exemple/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Gerenciamento de Dependências e Build em Java com Maven/projetos/Plugins-javadoc-exemple/src/main/java/org/example/Carro.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Gerenciamento de Dependências e Build em Java com Maven/projetos/Plugins-javadoc-exemple/src/main/java/org/example/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Gerenciamento de Dependências e Build em Java com Maven/projetos/Plugins-javadoc-exemple/target/classes/org/example/Carro.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Gerenciamento de Dependências e Build em Java com Maven/projetos/Plugins-javadoc-exemple/target/classes/org/example/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Gerenciamento de Dependências e Build em Java com Maven/projetos/Plugins-javadoc-exemple/target/javadoc-bundle-options/javadoc-options-javadoc-resources.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Gerenciamento de Dependências e Build em Java com Maven/projetos/Plugins-javadoc-exemple/target/maven-javadoc-plugin-stale-data.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Gerenciamento de Dependências e Build em Java com Maven/projetos/Plugins-javadoc-exemple/target/site/apidocs/allclasses-index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Gerenciamento de Dependências e Build em Java com Maven/projetos/Plugins-javadoc-exemple/target/site/apidocs/allpackages-index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Gerenciamento de Dependências e Build em Java com Maven/projetos/Plugins-javadoc-exemple/target/site/apidocs/element-list" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Gerenciamento de Dependências e Build em Java com Maven/projetos/Plugins-javadoc-exemple/target/site/apidocs/help-doc.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Gerenciamento de Dependências e Build em Java com Maven/projetos/Plugins-javadoc-exemple/target/site/apidocs/index-all.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Gerenciamento de Dependências e Build em Java com Maven/projetos/Plugins-javadoc-exemple/target/site/apidocs/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Gerenciamento de Dependências e Build em Java com Maven/projetos/Plugins-javadoc-exemple/target/site/apidocs/jquery-ui.overrides.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Gerenciamento de Dependências e Build em Java com Maven/projetos/Plugins-javadoc-exemple/target/site/apidocs/legal/COPYRIGHT" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Gerenciamento de Dependências e Build em Java com Maven/projetos/Plugins-javadoc-exemple/target/site/apidocs/legal/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Gerenciamento de Dependências e Build em Java com Maven/projetos/Plugins-javadoc-exemple/target/site/apidocs/legal/jquery.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Gerenciamento de Dependências e Build em Java com Maven/projetos/Plugins-javadoc-exemple/target/site/apidocs/legal/jqueryUI.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Gerenciamento de Dependências e Build em Java com Maven/projetos/Plugins-javadoc-exemple/target/site/apidocs/member-search-index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Gerenciamento de Dependências e Build em Java com Maven/projetos/Plugins-javadoc-exemple/target/site/apidocs/module-search-index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Gerenciamento de Dependências e Build em Java com Maven/projetos/Plugins-javadoc-exemple/target/site/apidocs/org/example/Carro.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Gerenciamento de Dependências e Build em Java com Maven/projetos/Plugins-javadoc-exemple/target/site/apidocs/org/example/Main.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Gerenciamento de Dependências e Build em Java com Maven/projetos/Plugins-javadoc-exemple/target/site/apidocs/org/example/class-use/Carro.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Gerenciamento de Dependências e Build em Java com Maven/projetos/Plugins-javadoc-exemple/target/site/apidocs/org/example/class-use/Main.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Gerenciamento de Dependências e Build em Java com Maven/projetos/Plugins-javadoc-exemple/target/site/apidocs/org/example/package-summary.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Gerenciamento de Dependências e Build em Java com Maven/projetos/Plugins-javadoc-exemple/target/site/apidocs/org/example/package-tree.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Gerenciamento de Dependências e Build em Java com Maven/projetos/Plugins-javadoc-exemple/target/site/apidocs/org/example/package-use.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Gerenciamento de Dependências e Build em Java com Maven/projetos/Plugins-javadoc-exemple/target/site/apidocs/overview-tree.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Gerenciamento de Dependências e Build em Java com Maven/projetos/Plugins-javadoc-exemple/target/site/apidocs/package-search-index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Gerenciamento de Dependências e Build em Java com Maven/projetos/Plugins-javadoc-exemple/target/site/apidocs/resources/glass.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Gerenciamento de Dependências e Build em Java com Maven/projetos/Plugins-javadoc-exemple/target/site/apidocs/resources/x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Gerenciamento de Dependências e Build em Java com Maven/projetos/Plugins-javadoc-exemple/target/site/apidocs/script-dir/images/ui-bg_glass_55_fbf9ee_1x400.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Gerenciamento de Dependências e Build em Java com Maven/projetos/Plugins-javadoc-exemple/target/site/apidocs/script-dir/images/ui-bg_glass_65_dadada_1x400.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Gerenciamento de Dependências e Build em Java com Maven/projetos/Plugins-javadoc-exemple/target/site/apidocs/script-dir/images/ui-bg_glass_75_dadada_1x400.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Gerenciamento de Dependências e Build em Java com Maven/projetos/Plugins-javadoc-exemple/target/site/apidocs/script-dir/images/ui-bg_glass_75_e6e6e6_1x400.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Gerenciamento de Dependências e Build em Java com Maven/projetos/Plugins-javadoc-exemple/target/site/apidocs/script-dir/images/ui-bg_glass_95_fef1ec_1x400.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Gerenciamento de Dependências e Build em Java com Maven/projetos/Plugins-javadoc-exemple/target/site/apidocs/script-dir/images/ui-bg_highlight-soft_75_cccccc_1x100.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Gerenciamento de Dependências e Build em Java com Maven/projetos/Plugins-javadoc-exemple/target/site/apidocs/script-dir/images/ui-icons_222222_256x240.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Gerenciamento de Dependências e Build em Java com Maven/projetos/Plugins-javadoc-exemple/target/site/apidocs/script-dir/images/ui-icons_2e83ff_256x240.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Gerenciamento de Dependências e Build em Java com Maven/projetos/Plugins-javadoc-exemple/target/site/apidocs/script-dir/images/ui-icons_454545_256x240.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Gerenciamento de Dependências e Build em Java com Maven/projetos/Plugins-javadoc-exemple/target/site/apidocs/script-dir/images/ui-icons_888888_256x240.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Gerenciamento de Dependências e Build em Java com Maven/projetos/Plugins-javadoc-exemple/target/site/apidocs/script-dir/images/ui-icons_cd0a0a_256x240.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Gerenciamento de Dependências e Build em Java com Maven/projetos/Plugins-javadoc-exemple/target/site/apidocs/script-dir/jquery-3.5.1.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Gerenciamento de Dependências e Build em Java com Maven/projetos/Plugins-javadoc-exemple/target/site/apidocs/script-dir/jquery-ui.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Gerenciamento de Dependências e Build em Java com Maven/projetos/Plugins-javadoc-exemple/target/site/apidocs/script-dir/jquery-ui.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Gerenciamento de Dependências e Build em Java com Maven/projetos/Plugins-javadoc-exemple/target/site/apidocs/script-dir/jquery-ui.structure.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Gerenciamento de Dependências e Build em Java com Maven/projetos/Plugins-javadoc-exemple/target/site/apidocs/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Gerenciamento de Dependências e Build em Java com Maven/projetos/Plugins-javadoc-exemple/target/site/apidocs/search.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Gerenciamento de Dependências e Build em Java com Maven/projetos/Plugins-javadoc-exemple/target/site/apidocs/stylesheet.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Gerenciamento de Dependências e Build em Java com Maven/projetos/Plugins-javadoc-exemple/target/site/apidocs/tag-search-index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Gerenciamento de Dependências e Build em Java com Maven/projetos/Plugins-javadoc-exemple/target/site/apidocs/type-search-index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Gerenciamento de Dependências e Build em Java com Maven/projetos/Teste/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Gerenciamento de Dependências e Build em Java com Maven/projetos/Teste/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Gerenciamento de Dependências e Build em Java com Maven/projetos/Teste/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Gerenciamento de Dependências e Build em Java com Maven/projetos/Teste/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Gerenciamento de Dependências e Build em Java com Maven/projetos/Teste/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Gerenciamento de Dependências e Build em Java com Maven/projetos/Teste/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Gerenciamento de Dependências e Build em Java com Maven/projetos/Teste/src/main/java/org/example/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Gerenciamento de Dependências e Build em Java com Maven/projetos/Teste/target/classes/org/example/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Gerenciamento de Dependências e Build em Java com Maven/projetos/project-parent/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Gerenciamento de Dependências e Build em Java com Maven/projetos/project-parent/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Gerenciamento de Dependências e Build em Java com Maven/projetos/project-parent/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Gerenciamento de Dependências e Build em Java com Maven/projetos/project-parent/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Gerenciamento de Dependências e Build em Java com Maven/projetos/project-parent/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Gerenciamento de Dependências e Build em Java com Maven/projetos/project-parent/controller/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Gerenciamento de Dependências e Build em Java com Maven/projetos/project-parent/controller/src/main/java/one/digitalinnovation/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Gerenciamento de Dependências e Build em Java com Maven/projetos/project-parent/controller/src/test/java/one/digitalinnovation/AppTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Gerenciamento de Dependências e Build em Java com Maven/projetos/project-parent/core/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Gerenciamento de Dependências e Build em Java com Maven/projetos/project-parent/core/src/main/java/one/digitalinnovation/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Gerenciamento de Dependências e Build em Java com Maven/projetos/project-parent/core/src/test/java/one/digitalinnovation/AppTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Gerenciamento de Dependências e Build em Java com Maven/projetos/project-parent/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Gerenciamento de Dependências e Build em Java com Maven/projetos/project-parent/service/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Gerenciamento de Dependências e Build em Java com Maven/projetos/project-parent/service/src/main/java/one/digitalinnovation/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Gerenciamento de Dependências e Build em Java com Maven/projetos/project-parent/service/src/test/java/one/digitalinnovation/AppTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Gerenciamento de Dependências e Build em Java com Maven/projetos/project-parent/src/main/java/one/digitalinnovation/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Gerenciamento de Dependências e Build em Java com Maven/projetos/project-parent/src/test/java/one/digitalinnovation/AppTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Gerenciamento de Dependências e Build em Java com Maven/projetos/quick-start-maven/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Gerenciamento de Dependências e Build em Java com Maven/projetos/quick-start-maven/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Gerenciamento de Dependências e Build em Java com Maven/projetos/quick-start-maven/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Gerenciamento de Dependências e Build em Java com Maven/projetos/quick-start-maven/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Gerenciamento de Dependências e Build em Java com Maven/projetos/quick-start-maven/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Gerenciamento de Dependências e Build em Java com Maven/projetos/quick-start-maven/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Gerenciamento de Dependências e Build em Java com Maven/projetos/quick-start-maven/src/main/java/one/digitalinnovation/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Gerenciamento de Dependências e Build em Java com Maven/projetos/quick-start-maven/src/main/java/one/digitalinnovation/OlaMundo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Gerenciamento de Dependências e Build em Java com Maven/projetos/quick-start-maven/src/test/java/one/digitalinnovation/AppTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Gerenciamento de Dependências e Build em Java com Maven/projetos/quick-start-maven/target/classes/one/digitalinnovation/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Gerenciamento de Dependências e Build em Java com Maven/projetos/quick-start-maven/target/classes/one/digitalinnovation/OlaMundo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Gerenciamento de Dependências e Build em Java com Maven/projetos/quick-start-maven/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Gerenciamento de Dependências e Build em Java com Maven/projetos/quick-start-maven/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Gerenciamento de Dependências e Build em Java com Maven/projetos/quick-start-maven/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Gerenciamento de Dependências e Build em Java com Maven/projetos/quick-start-maven/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Gerenciamento de Dependências e Build em Java com Maven/projetos/quick-start-maven/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Gerenciamento de Dependências e Build em Java com Maven/projetos/quick-start-maven/target/quick-start-maven-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Gerenciamento de Dependências e Build em Java com Maven/projetos/quick-start-maven/target/surefire-reports/TEST-one.digitalinnovation.AppTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Gerenciamento de Dependências e Build em Java com Maven/projetos/quick-start-maven/target/surefire-reports/one.digitalinnovation.AppTest.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Gerenciamento de Dependências e Build em Java com Maven/projetos/quick-start-maven/target/test-classes/one/digitalinnovation/AppTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Gerenciamento de Dependências e Build em Java com Maven/projetos/webapp-project/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Gerenciamento de Dependências e Build em Java com Maven/projetos/webapp-project/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Gerenciamento de Dependências e Build em Java com Maven/projetos/webapp-project/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Gerenciamento de Dependências e Build em Java com Maven/projetos/webapp-project/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Gerenciamento de Dependências e Build em Java com Maven/projetos/webapp-project/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Gerenciamento de Dependências e Build em Java com Maven/projetos/webapp-project/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Gerenciamento de Dependências e Build em Java com Maven/projetos/webapp-project/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Gerenciamento de Dependências e Build em Java com Maven/projetos/webapp-project/src/main/java..br.com.teste/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Gerenciamento de Dependências e Build em Java com Maven/projetos/webapp-project/src/main/webapp/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Gerenciamento de Dependências e Build em Java com Maven/projetos/webapp-project/src/main/webapp/index.jsp" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Use Maven wrapper" />
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2Jy55LhRuDU3c65JFlJIj9QxOKW" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/Jeandson/Desktop/cursos-dio/Orange Tech + BackEnd/Imersão no Spring Framework com Spring Boot/Exemplos/Properties-Value"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="ScopesSingletonOuPrototypeApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.springboot.ScopesSingletonOuPrototypeApplication" />
+      <module name="Scopes-Singleton-ou-Prototype" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.springboot.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ScopesSingletonOuPrototypeApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f0db978d-8d00-41ba-b8d5-882adda6e406" name="Changes" comment="" />
+      <created>1673037304009</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1673037304009</updated>
+    </task>
+    <servers />
+  </component>
+</project>
