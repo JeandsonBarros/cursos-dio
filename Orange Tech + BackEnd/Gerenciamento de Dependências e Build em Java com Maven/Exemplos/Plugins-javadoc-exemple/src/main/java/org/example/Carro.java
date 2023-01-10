@@ -14,30 +14,30 @@ public class Carro {
         this.ano = ano;
     }
 
-    /*
+    /* *
     * Retorna uma string contendo o modelo do carro
-    * */
+    */
     public String getModelo() {
         return modelo;
     }
 
-    /*
+    /* *
      * Recebe uma string contendo o modelo do carro
-     * */
+     */
     public void setModelo(String modelo) {
         this.modelo = modelo;
     }
 
-    /*
+    /* *
      * Retorna uma string contendo a marca do carro
-     * */
+     */
     public String getMarca() {
         return marca;
     }
 
-    /*
+    /* *
      * Recebe uma string contendo a marca do carro
-     * */
+     */
     public void setMarca(String marca) {
         this.marca = marca;
     }
