@@ -1,4 +1,6 @@
-const themes = {
+import { createContext } from "react"
+
+export const themes = {
     primary: {
         background: "#333",
         color: "#fff"
@@ -8,3 +10,5 @@ const themes = {
         color: "#333"
     },
 }
+
+export const ThemeContext = createContext(themes.primary)

@@ -1,12 +1,22 @@
 import { useEffect, useState } from 'react';
 import './App.css';
-import TwitterClass from './components/Aprofundando sobre o Ciclo de Vida do React/TwitterClass';
-import TwitterFunction from './components/Aprofundando sobre o Ciclo de Vida do React/TwitterFunction';
+import TwitterClass from './components/TwitterClass';
+import TwitterFunction from './components/TwitterFunction';
+import { ThemeContext, themes } from './components/Theme';
+import Card from './components/Card';
 
 function App() {
 
   const [loading, setLoanding] = useState(false)
   const [actived, setActived] = useState(true)
+
+  const [token, setToken] = useState()
+
+  useEffect(()=>{
+    setTimeout(()=>{
+      setToken("aspdhd983-2q983-2382u-0hdusaoa")
+    },3000)
+  },[setToken])
 
   useEffect(() => {
     setTimeout(() => {
@@ -38,8 +48,10 @@ function App() {
 
       <hr /> */}
 
-      
-
+      <h3>Context API</h3>
+      <ThemeContext.Provider value={{...themes.primary, token}}>
+        <Card/>
+      </ThemeContext.Provider>
       
     </div>
   );
