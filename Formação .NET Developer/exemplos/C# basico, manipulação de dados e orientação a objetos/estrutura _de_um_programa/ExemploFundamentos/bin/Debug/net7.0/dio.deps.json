@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "dio/1.0.0": {
+        "dependencies": {
+          "ExemploLibrary": "1.0.0"
+        },
+        "runtime": {
+          "dio.dll": {}
+        }
+      },
+      "ExemploLibrary/1.0.0": {
+        "runtime": {
+          "ExemploLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "dio/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ExemploLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,51 @@
+C:\Users\Jeandson\Desktop\dio\bin\Debug\net7.0\dio.exe
+C:\Users\Jeandson\Desktop\dio\bin\Debug\net7.0\dio.deps.json
+C:\Users\Jeandson\Desktop\dio\bin\Debug\net7.0\dio.runtimeconfig.json
+C:\Users\Jeandson\Desktop\dio\bin\Debug\net7.0\dio.dll
+C:\Users\Jeandson\Desktop\dio\bin\Debug\net7.0\dio.pdb
+C:\Users\Jeandson\Desktop\dio\obj\Debug\net7.0\dio.csproj.AssemblyReference.cache
+C:\Users\Jeandson\Desktop\dio\obj\Debug\net7.0\dio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jeandson\Desktop\dio\obj\Debug\net7.0\dio.AssemblyInfoInputs.cache
+C:\Users\Jeandson\Desktop\dio\obj\Debug\net7.0\dio.AssemblyInfo.cs
+C:\Users\Jeandson\Desktop\dio\obj\Debug\net7.0\dio.csproj.CoreCompileInputs.cache
+C:\Users\Jeandson\Desktop\dio\obj\Debug\net7.0\dio.dll
+C:\Users\Jeandson\Desktop\dio\obj\Debug\net7.0\refint\dio.dll
+C:\Users\Jeandson\Desktop\dio\obj\Debug\net7.0\dio.pdb
+C:\Users\Jeandson\Desktop\dio\obj\Debug\net7.0\dio.genruntimeconfig.cache
+C:\Users\Jeandson\Desktop\dio\obj\Debug\net7.0\ref\dio.dll
+C:\Users\Jeandson\Desktop\dio\estrutura _e_um_programa\PastaExemploFundamentos\bin\Debug\net7.0\dio.exe
+C:\Users\Jeandson\Desktop\dio\estrutura _e_um_programa\PastaExemploFundamentos\bin\Debug\net7.0\dio.deps.json
+C:\Users\Jeandson\Desktop\dio\estrutura _e_um_programa\PastaExemploFundamentos\bin\Debug\net7.0\dio.runtimeconfig.json
+C:\Users\Jeandson\Desktop\dio\estrutura _e_um_programa\PastaExemploFundamentos\bin\Debug\net7.0\dio.dll
+C:\Users\Jeandson\Desktop\dio\estrutura _e_um_programa\PastaExemploFundamentos\bin\Debug\net7.0\dio.pdb
+C:\Users\Jeandson\Desktop\dio\estrutura _e_um_programa\PastaExemploFundamentos\bin\Debug\net7.0\ExemploLibrary.dll
+C:\Users\Jeandson\Desktop\dio\estrutura _e_um_programa\PastaExemploFundamentos\bin\Debug\net7.0\ExemploLibrary.pdb
+C:\Users\Jeandson\Desktop\dio\estrutura _e_um_programa\PastaExemploFundamentos\obj\Debug\net7.0\dio.csproj.AssemblyReference.cache
+C:\Users\Jeandson\Desktop\dio\estrutura _e_um_programa\PastaExemploFundamentos\obj\Debug\net7.0\dio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jeandson\Desktop\dio\estrutura _e_um_programa\PastaExemploFundamentos\obj\Debug\net7.0\dio.AssemblyInfoInputs.cache
+C:\Users\Jeandson\Desktop\dio\estrutura _e_um_programa\PastaExemploFundamentos\obj\Debug\net7.0\dio.AssemblyInfo.cs
+C:\Users\Jeandson\Desktop\dio\estrutura _e_um_programa\PastaExemploFundamentos\obj\Debug\net7.0\dio.csproj.CoreCompileInputs.cache
+C:\Users\Jeandson\Desktop\dio\estrutura _e_um_programa\PastaExemploFundamentos\obj\Debug\net7.0\dio.csproj.CopyComplete
+C:\Users\Jeandson\Desktop\dio\estrutura _e_um_programa\PastaExemploFundamentos\obj\Debug\net7.0\dio.dll
+C:\Users\Jeandson\Desktop\dio\estrutura _e_um_programa\PastaExemploFundamentos\obj\Debug\net7.0\refint\dio.dll
+C:\Users\Jeandson\Desktop\dio\estrutura _e_um_programa\PastaExemploFundamentos\obj\Debug\net7.0\dio.pdb
+C:\Users\Jeandson\Desktop\dio\estrutura _e_um_programa\PastaExemploFundamentos\obj\Debug\net7.0\dio.genruntimeconfig.cache
+C:\Users\Jeandson\Desktop\dio\estrutura _e_um_programa\PastaExemploFundamentos\obj\Debug\net7.0\ref\dio.dll
+C:\Users\Jeandson\Desktop\dio\estrutura _e_um_programa\ExemploFundamentos\obj\Debug\net7.0\dio.csproj.AssemblyReference.cache
+C:\Users\Jeandson\Desktop\dio\estrutura _e_um_programa\ExemploFundamentos\obj\Debug\net7.0\dio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jeandson\Desktop\dio\estrutura _e_um_programa\ExemploFundamentos\obj\Debug\net7.0\dio.AssemblyInfoInputs.cache
+C:\Users\Jeandson\Desktop\dio\estrutura _e_um_programa\ExemploFundamentos\obj\Debug\net7.0\dio.AssemblyInfo.cs
+C:\Users\Jeandson\Desktop\dio\estrutura _e_um_programa\ExemploFundamentos\obj\Debug\net7.0\dio.csproj.CoreCompileInputs.cache
+C:\Users\Jeandson\Desktop\dio\estrutura _e_um_programa\ExemploFundamentos\obj\Debug\net7.0\dio.dll
+C:\Users\Jeandson\Desktop\dio\estrutura _e_um_programa\ExemploFundamentos\obj\Debug\net7.0\refint\dio.dll
+C:\Users\Jeandson\Desktop\dio\estrutura _e_um_programa\ExemploFundamentos\obj\Debug\net7.0\dio.pdb
+C:\Users\Jeandson\Desktop\dio\estrutura _e_um_programa\ExemploFundamentos\bin\Debug\net7.0\dio.exe
+C:\Users\Jeandson\Desktop\dio\estrutura _e_um_programa\ExemploFundamentos\bin\Debug\net7.0\dio.deps.json
+C:\Users\Jeandson\Desktop\dio\estrutura _e_um_programa\ExemploFundamentos\bin\Debug\net7.0\dio.runtimeconfig.json
+C:\Users\Jeandson\Desktop\dio\estrutura _e_um_programa\ExemploFundamentos\bin\Debug\net7.0\dio.dll
+C:\Users\Jeandson\Desktop\dio\estrutura _e_um_programa\ExemploFundamentos\bin\Debug\net7.0\dio.pdb
+C:\Users\Jeandson\Desktop\dio\estrutura _e_um_programa\ExemploFundamentos\bin\Debug\net7.0\ExemploLibrary.dll
+C:\Users\Jeandson\Desktop\dio\estrutura _e_um_programa\ExemploFundamentos\bin\Debug\net7.0\ExemploLibrary.pdb
+C:\Users\Jeandson\Desktop\dio\estrutura _e_um_programa\ExemploFundamentos\obj\Debug\net7.0\dio.csproj.CopyComplete
+C:\Users\Jeandson\Desktop\dio\estrutura _e_um_programa\ExemploFundamentos\obj\Debug\net7.0\dio.genruntimeconfig.cache
+C:\Users\Jeandson\Desktop\dio\estrutura _e_um_programa\ExemploFundamentos\obj\Debug\net7.0\ref\dio.dll
