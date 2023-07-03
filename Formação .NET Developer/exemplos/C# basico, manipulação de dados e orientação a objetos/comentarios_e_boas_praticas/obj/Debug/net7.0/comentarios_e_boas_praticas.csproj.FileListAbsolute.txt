@@ -1,0 +1,15 @@
+C:\Users\Jeandson\Desktop\dio\comentarios_e_boas_praticas\bin\Debug\net7.0\comentarios_e_boas_praticas.exe
+C:\Users\Jeandson\Desktop\dio\comentarios_e_boas_praticas\bin\Debug\net7.0\comentarios_e_boas_praticas.deps.json
+C:\Users\Jeandson\Desktop\dio\comentarios_e_boas_praticas\bin\Debug\net7.0\comentarios_e_boas_praticas.runtimeconfig.json
+C:\Users\Jeandson\Desktop\dio\comentarios_e_boas_praticas\bin\Debug\net7.0\comentarios_e_boas_praticas.dll
+C:\Users\Jeandson\Desktop\dio\comentarios_e_boas_praticas\bin\Debug\net7.0\comentarios_e_boas_praticas.pdb
+C:\Users\Jeandson\Desktop\dio\comentarios_e_boas_praticas\obj\Debug\net7.0\comentarios_e_boas_praticas.csproj.AssemblyReference.cache
+C:\Users\Jeandson\Desktop\dio\comentarios_e_boas_praticas\obj\Debug\net7.0\comentarios_e_boas_praticas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jeandson\Desktop\dio\comentarios_e_boas_praticas\obj\Debug\net7.0\comentarios_e_boas_praticas.AssemblyInfoInputs.cache
+C:\Users\Jeandson\Desktop\dio\comentarios_e_boas_praticas\obj\Debug\net7.0\comentarios_e_boas_praticas.AssemblyInfo.cs
+C:\Users\Jeandson\Desktop\dio\comentarios_e_boas_praticas\obj\Debug\net7.0\comentarios_e_boas_praticas.csproj.CoreCompileInputs.cache
+C:\Users\Jeandson\Desktop\dio\comentarios_e_boas_praticas\obj\Debug\net7.0\comentarios_e_boas_praticas.dll
+C:\Users\Jeandson\Desktop\dio\comentarios_e_boas_praticas\obj\Debug\net7.0\refint\comentarios_e_boas_praticas.dll
+C:\Users\Jeandson\Desktop\dio\comentarios_e_boas_praticas\obj\Debug\net7.0\comentarios_e_boas_praticas.pdb
+C:\Users\Jeandson\Desktop\dio\comentarios_e_boas_praticas\obj\Debug\net7.0\comentarios_e_boas_praticas.genruntimeconfig.cache
+C:\Users\Jeandson\Desktop\dio\comentarios_e_boas_praticas\obj\Debug\net7.0\ref\comentarios_e_boas_praticas.dll
