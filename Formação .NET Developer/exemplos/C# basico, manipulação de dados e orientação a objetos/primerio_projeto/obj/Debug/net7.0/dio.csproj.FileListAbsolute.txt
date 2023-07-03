@@ -1,0 +1,15 @@
+C:\Users\Jeandson\Desktop\dio\bin\Debug\net7.0\dio.exe
+C:\Users\Jeandson\Desktop\dio\bin\Debug\net7.0\dio.deps.json
+C:\Users\Jeandson\Desktop\dio\bin\Debug\net7.0\dio.runtimeconfig.json
+C:\Users\Jeandson\Desktop\dio\bin\Debug\net7.0\dio.dll
+C:\Users\Jeandson\Desktop\dio\bin\Debug\net7.0\dio.pdb
+C:\Users\Jeandson\Desktop\dio\obj\Debug\net7.0\dio.csproj.AssemblyReference.cache
+C:\Users\Jeandson\Desktop\dio\obj\Debug\net7.0\dio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jeandson\Desktop\dio\obj\Debug\net7.0\dio.AssemblyInfoInputs.cache
+C:\Users\Jeandson\Desktop\dio\obj\Debug\net7.0\dio.AssemblyInfo.cs
+C:\Users\Jeandson\Desktop\dio\obj\Debug\net7.0\dio.csproj.CoreCompileInputs.cache
+C:\Users\Jeandson\Desktop\dio\obj\Debug\net7.0\dio.dll
+C:\Users\Jeandson\Desktop\dio\obj\Debug\net7.0\refint\dio.dll
+C:\Users\Jeandson\Desktop\dio\obj\Debug\net7.0\dio.pdb
+C:\Users\Jeandson\Desktop\dio\obj\Debug\net7.0\dio.genruntimeconfig.cache
+C:\Users\Jeandson\Desktop\dio\obj\Debug\net7.0\ref\dio.dll
