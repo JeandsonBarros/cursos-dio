@@ -1,0 +1,15 @@
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\exemplos\exceções_e_coleções\bin\Debug\net7.0\exceções_e_coleções.exe
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\exemplos\exceções_e_coleções\bin\Debug\net7.0\exceções_e_coleções.deps.json
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\exemplos\exceções_e_coleções\bin\Debug\net7.0\exceções_e_coleções.runtimeconfig.json
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\exemplos\exceções_e_coleções\bin\Debug\net7.0\exceções_e_coleções.dll
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\exemplos\exceções_e_coleções\bin\Debug\net7.0\exceções_e_coleções.pdb
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\exemplos\exceções_e_coleções\obj\Debug\net7.0\exceções_e_coleções.csproj.AssemblyReference.cache
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\exemplos\exceções_e_coleções\obj\Debug\net7.0\exceções_e_coleções.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\exemplos\exceções_e_coleções\obj\Debug\net7.0\exceções_e_coleções.AssemblyInfoInputs.cache
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\exemplos\exceções_e_coleções\obj\Debug\net7.0\exceções_e_coleções.AssemblyInfo.cs
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\exemplos\exceções_e_coleções\obj\Debug\net7.0\exceções_e_coleções.csproj.CoreCompileInputs.cache
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\exemplos\exceções_e_coleções\obj\Debug\net7.0\exceções_e_coleções.dll
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\exemplos\exceções_e_coleções\obj\Debug\net7.0\refint\exceções_e_coleções.dll
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\exemplos\exceções_e_coleções\obj\Debug\net7.0\exceções_e_coleções.pdb
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\exemplos\exceções_e_coleções\obj\Debug\net7.0\exceções_e_coleções.genruntimeconfig.cache
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\exemplos\exceções_e_coleções\obj\Debug\net7.0\ref\exceções_e_coleções.dll
