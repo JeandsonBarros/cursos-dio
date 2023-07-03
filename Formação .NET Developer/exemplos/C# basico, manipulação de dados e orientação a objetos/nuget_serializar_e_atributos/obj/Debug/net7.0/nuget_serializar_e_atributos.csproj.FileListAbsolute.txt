@@ -1,0 +1,17 @@
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\exemplos\nuget_serializar_e_atributos\bin\Debug\net7.0\nuget_serializar_e_atributos.exe
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\exemplos\nuget_serializar_e_atributos\bin\Debug\net7.0\nuget_serializar_e_atributos.deps.json
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\exemplos\nuget_serializar_e_atributos\bin\Debug\net7.0\nuget_serializar_e_atributos.runtimeconfig.json
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\exemplos\nuget_serializar_e_atributos\bin\Debug\net7.0\nuget_serializar_e_atributos.dll
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\exemplos\nuget_serializar_e_atributos\bin\Debug\net7.0\nuget_serializar_e_atributos.pdb
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\exemplos\nuget_serializar_e_atributos\obj\Debug\net7.0\nuget_serializar_e_atributos.csproj.AssemblyReference.cache
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\exemplos\nuget_serializar_e_atributos\obj\Debug\net7.0\nuget_serializar_e_atributos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\exemplos\nuget_serializar_e_atributos\obj\Debug\net7.0\nuget_serializar_e_atributos.AssemblyInfoInputs.cache
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\exemplos\nuget_serializar_e_atributos\obj\Debug\net7.0\nuget_serializar_e_atributos.AssemblyInfo.cs
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\exemplos\nuget_serializar_e_atributos\obj\Debug\net7.0\nuget_serializar_e_atributos.csproj.CoreCompileInputs.cache
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\exemplos\nuget_serializar_e_atributos\obj\Debug\net7.0\nuget_serializar_e_atributos.dll
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\exemplos\nuget_serializar_e_atributos\obj\Debug\net7.0\refint\nuget_serializar_e_atributos.dll
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\exemplos\nuget_serializar_e_atributos\obj\Debug\net7.0\nuget_serializar_e_atributos.pdb
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\exemplos\nuget_serializar_e_atributos\obj\Debug\net7.0\nuget_serializar_e_atributos.genruntimeconfig.cache
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\exemplos\nuget_serializar_e_atributos\obj\Debug\net7.0\ref\nuget_serializar_e_atributos.dll
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\exemplos\nuget_serializar_e_atributos\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\exemplos\nuget_serializar_e_atributos\obj\Debug\net7.0\nuget_serializar_e_atributos.csproj.CopyComplete

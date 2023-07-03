@@ -1,0 +1,20 @@
+[
+    {
+      "Nome_do_estado": "Piauí",
+      "Sigla": "PI",
+      "QuantidadeDeAbitantes": 3200000
+
+    },
+    {
+      "Nome_do_estado": "Pernambuco",
+      "Sigla": "PE",
+      "QuantidadeDeAbitantes": 9300000
+
+    },
+    {
+      "Nome_do_estado": "Bahia",
+      "Sigla": "BA",
+      "QuantidadeDeAbitantes": 15200000
+    }
+   
+  ]

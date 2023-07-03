@@ -1,0 +1,15 @@
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\exemplos\manipulando_valores\bin\Debug\net7.0\manipulando_valores.exe
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\exemplos\manipulando_valores\bin\Debug\net7.0\manipulando_valores.deps.json
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\exemplos\manipulando_valores\bin\Debug\net7.0\manipulando_valores.runtimeconfig.json
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\exemplos\manipulando_valores\bin\Debug\net7.0\manipulando_valores.dll
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\exemplos\manipulando_valores\bin\Debug\net7.0\manipulando_valores.pdb
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\exemplos\manipulando_valores\obj\Debug\net7.0\manipulando_valores.csproj.AssemblyReference.cache
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\exemplos\manipulando_valores\obj\Debug\net7.0\manipulando_valores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\exemplos\manipulando_valores\obj\Debug\net7.0\manipulando_valores.AssemblyInfoInputs.cache
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\exemplos\manipulando_valores\obj\Debug\net7.0\manipulando_valores.AssemblyInfo.cs
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\exemplos\manipulando_valores\obj\Debug\net7.0\manipulando_valores.csproj.CoreCompileInputs.cache
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\exemplos\manipulando_valores\obj\Debug\net7.0\manipulando_valores.dll
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\exemplos\manipulando_valores\obj\Debug\net7.0\refint\manipulando_valores.dll
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\exemplos\manipulando_valores\obj\Debug\net7.0\manipulando_valores.pdb
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\exemplos\manipulando_valores\obj\Debug\net7.0\manipulando_valores.genruntimeconfig.cache
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\exemplos\manipulando_valores\obj\Debug\net7.0\ref\manipulando_valores.dll
