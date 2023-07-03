@@ -1,0 +1,60 @@
+@model Models.Contato
+
+@{
+    ViewData["Title"] = (Model != null && Model.Id > 0) ? "Atualizar contato" : "Criar contato";
+}
+
+@if (Model != null && Model.Id > 0)
+{
+    <h1>Atualizar contato</h1>
+}
+else
+{
+    <h1>Criar contato</h1>
+}
+
+<form asp-action="@((Model != null && Model.Id > 0) ? "Atualizar" : "Criar")">
+
+    <div class="mb-3">
+        <label asp-for="Nome" class="form-label"></label>
+        <input asp-for="Nome" type="text"
+            class="form-control @((Model != null && Model.Nome == null) ? "border-danger" : "")"
+            placeholder="Nome Exemplo" />
+        @if (Model != null && Model.Nome == null)
+        {
+            <small>Nome é requirido</small>
+        }
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="Telefone" class="form-label"></label>
+        <input asp-for="Telefone" type="number"
+            class="form-control @((Model != null && Model.Telefone == null) ? "border-danger" : "")"
+            placeholder="123456" />
+        @if (Model != null && Model.Telefone == null)
+        {
+            <small>Telefone é requirido</small>
+        }
+    </div>
+
+    <div class="form-check">
+        <input class="form-check-input" asp-for="Ativo" type="checkbox" />
+        <label class="form-check-label" asp-for="Ativo">
+            Ativo
+        </label>
+    </div>
+
+    @if (Model != null && Model.Id > 0)
+    {
+        <button type="submit" class="btn btn-info mt-3">Atualizar</button>
+    }
+    else
+    {
+        <button type="submit" class="btn btn-info mt-3">Salvar</button>
+    }
+
+</form>
+
+<hr />
+
+<a asp-action="Index">Voltar</a>

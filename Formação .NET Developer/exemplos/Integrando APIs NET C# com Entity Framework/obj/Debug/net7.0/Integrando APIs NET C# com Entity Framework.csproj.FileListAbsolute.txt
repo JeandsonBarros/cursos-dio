@@ -1,0 +1,76 @@
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\exemplos\Integrando APIs NET C# com Entity Framework\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\exemplos\Integrando APIs NET C# com Entity Framework\bin\Debug\net7.0\appsettings.json
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\exemplos\Integrando APIs NET C# com Entity Framework\bin\Debug\net7.0\Integrando APIs NET C# com Entity Framework.exe
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\exemplos\Integrando APIs NET C# com Entity Framework\bin\Debug\net7.0\Integrando APIs NET C# com Entity Framework.deps.json
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\exemplos\Integrando APIs NET C# com Entity Framework\bin\Debug\net7.0\Integrando APIs NET C# com Entity Framework.runtimeconfig.json
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\exemplos\Integrando APIs NET C# com Entity Framework\bin\Debug\net7.0\Integrando APIs NET C# com Entity Framework.dll
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\exemplos\Integrando APIs NET C# com Entity Framework\bin\Debug\net7.0\Integrando APIs NET C# com Entity Framework.pdb
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\exemplos\Integrando APIs NET C# com Entity Framework\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\exemplos\Integrando APIs NET C# com Entity Framework\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\exemplos\Integrando APIs NET C# com Entity Framework\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\exemplos\Integrando APIs NET C# com Entity Framework\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\exemplos\Integrando APIs NET C# com Entity Framework\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\exemplos\Integrando APIs NET C# com Entity Framework\obj\Debug\net7.0\Integrando APIs NET C# com Entity Framework.csproj.AssemblyReference.cache
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\exemplos\Integrando APIs NET C# com Entity Framework\obj\Debug\net7.0\Integrando APIs NET C# com Entity Framework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\exemplos\Integrando APIs NET C# com Entity Framework\obj\Debug\net7.0\Integrando APIs NET C# com Entity Framework.AssemblyInfoInputs.cache
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\exemplos\Integrando APIs NET C# com Entity Framework\obj\Debug\net7.0\Integrando APIs NET C# com Entity Framework.AssemblyInfo.cs
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\exemplos\Integrando APIs NET C# com Entity Framework\obj\Debug\net7.0\Integrando APIs NET C# com Entity Framework.csproj.CoreCompileInputs.cache
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\exemplos\Integrando APIs NET C# com Entity Framework\obj\Debug\net7.0\Integrando APIs NET C# com Entity Framework.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\exemplos\Integrando APIs NET C# com Entity Framework\obj\Debug\net7.0\Integrando APIs NET C# com Entity Framework.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\exemplos\Integrando APIs NET C# com Entity Framework\obj\Debug\net7.0\staticwebassets\msbuild.Integrando APIs NET C# com Entity Framework.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\exemplos\Integrando APIs NET C# com Entity Framework\obj\Debug\net7.0\staticwebassets\msbuild.build.Integrando APIs NET C# com Entity Framework.props
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\exemplos\Integrando APIs NET C# com Entity Framework\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Integrando APIs NET C# com Entity Framework.props
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\exemplos\Integrando APIs NET C# com Entity Framework\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Integrando APIs NET C# com Entity Framework.props
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\exemplos\Integrando APIs NET C# com Entity Framework\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\exemplos\Integrando APIs NET C# com Entity Framework\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\exemplos\Integrando APIs NET C# com Entity Framework\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\exemplos\Integrando APIs NET C# com Entity Framework\obj\Debug\net7.0\scopedcss\bundle\Integrando APIs NET C# com Entity Framework.styles.css
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\exemplos\Integrando APIs NET C# com Entity Framework\obj\Debug\net7.0\Integrando APIs NET C# com Entity Framework.csproj.CopyComplete
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\exemplos\Integrando APIs NET C# com Entity Framework\obj\Debug\net7.0\Integrando APIs NET C# com Entity Framework.dll
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\exemplos\Integrando APIs NET C# com Entity Framework\obj\Debug\net7.0\refint\Integrando APIs NET C# com Entity Framework.dll
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\exemplos\Integrando APIs NET C# com Entity Framework\obj\Debug\net7.0\Integrando APIs NET C# com Entity Framework.pdb
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\exemplos\Integrando APIs NET C# com Entity Framework\obj\Debug\net7.0\Integrando APIs NET C# com Entity Framework.genruntimeconfig.cache
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\exemplos\Integrando APIs NET C# com Entity Framework\obj\Debug\net7.0\ref\Integrando APIs NET C# com Entity Framework.dll
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\exemplos\Integrando APIs NET C# com Entity Framework\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\exemplos\Integrando APIs NET C# com Entity Framework\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\exemplos\Integrando APIs NET C# com Entity Framework\bin\Debug\net7.0\Humanizer.dll
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\exemplos\Integrando APIs NET C# com Entity Framework\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\exemplos\Integrando APIs NET C# com Entity Framework\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\exemplos\Integrando APIs NET C# com Entity Framework\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\exemplos\Integrando APIs NET C# com Entity Framework\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\exemplos\Integrando APIs NET C# com Entity Framework\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\exemplos\Integrando APIs NET C# com Entity Framework\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\exemplos\Integrando APIs NET C# com Entity Framework\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\exemplos\Integrando APIs NET C# com Entity Framework\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\exemplos\Integrando APIs NET C# com Entity Framework\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\exemplos\Integrando APIs NET C# com Entity Framework\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\exemplos\Integrando APIs NET C# com Entity Framework\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\exemplos\Integrando APIs NET C# com Entity Framework\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\exemplos\Integrando APIs NET C# com Entity Framework\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\exemplos\Integrando APIs NET C# com Entity Framework\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\exemplos\Integrando APIs NET C# com Entity Framework\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\exemplos\Integrando APIs NET C# com Entity Framework\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\exemplos\Integrando APIs NET C# com Entity Framework\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\exemplos\Integrando APIs NET C# com Entity Framework\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\exemplos\Integrando APIs NET C# com Entity Framework\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\exemplos\Integrando APIs NET C# com Entity Framework\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\exemplos\Integrando APIs NET C# com Entity Framework\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\exemplos\Integrando APIs NET C# com Entity Framework\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\exemplos\Integrando APIs NET C# com Entity Framework\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\exemplos\Integrando APIs NET C# com Entity Framework\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\exemplos\Integrando APIs NET C# com Entity Framework\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\exemplos\Integrando APIs NET C# com Entity Framework\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\exemplos\Integrando APIs NET C# com Entity Framework\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\exemplos\Integrando APIs NET C# com Entity Framework\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\exemplos\Integrando APIs NET C# com Entity Framework\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\exemplos\Integrando APIs NET C# com Entity Framework\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\exemplos\Integrando APIs NET C# com Entity Framework\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\exemplos\Integrando APIs NET C# com Entity Framework\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\exemplos\Integrando APIs NET C# com Entity Framework\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\exemplos\Integrando APIs NET C# com Entity Framework\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\exemplos\Integrando APIs NET C# com Entity Framework\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\exemplos\Integrando APIs NET C# com Entity Framework\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\exemplos\Integrando APIs NET C# com Entity Framework\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\exemplos\Integrando APIs NET C# com Entity Framework\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\exemplos\Integrando APIs NET C# com Entity Framework\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\exemplos\Integrando APIs NET C# com Entity Framework\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll

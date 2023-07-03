@@ -1,0 +1,43 @@
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\exemplos\Crud Contatos com MySql\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\exemplos\Crud Contatos com MySql\bin\Debug\net7.0\appsettings.json
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\exemplos\Crud Contatos com MySql\bin\Debug\net7.0\Crud Contatos com MySql.exe
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\exemplos\Crud Contatos com MySql\bin\Debug\net7.0\Crud Contatos com MySql.deps.json
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\exemplos\Crud Contatos com MySql\bin\Debug\net7.0\Crud Contatos com MySql.runtimeconfig.json
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\exemplos\Crud Contatos com MySql\bin\Debug\net7.0\Crud Contatos com MySql.dll
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\exemplos\Crud Contatos com MySql\bin\Debug\net7.0\Crud Contatos com MySql.pdb
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\exemplos\Crud Contatos com MySql\bin\Debug\net7.0\Humanizer.dll
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\exemplos\Crud Contatos com MySql\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\exemplos\Crud Contatos com MySql\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\exemplos\Crud Contatos com MySql\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\exemplos\Crud Contatos com MySql\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\exemplos\Crud Contatos com MySql\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\exemplos\Crud Contatos com MySql\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\exemplos\Crud Contatos com MySql\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\exemplos\Crud Contatos com MySql\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\exemplos\Crud Contatos com MySql\bin\Debug\net7.0\MySqlConnector.dll
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\exemplos\Crud Contatos com MySql\bin\Debug\net7.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\exemplos\Crud Contatos com MySql\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\exemplos\Crud Contatos com MySql\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\exemplos\Crud Contatos com MySql\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\exemplos\Crud Contatos com MySql\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\exemplos\Crud Contatos com MySql\obj\Debug\net7.0\Crud Contatos com MySql.csproj.AssemblyReference.cache
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\exemplos\Crud Contatos com MySql\obj\Debug\net7.0\Crud Contatos com MySql.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\exemplos\Crud Contatos com MySql\obj\Debug\net7.0\Crud Contatos com MySql.AssemblyInfoInputs.cache
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\exemplos\Crud Contatos com MySql\obj\Debug\net7.0\Crud Contatos com MySql.AssemblyInfo.cs
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\exemplos\Crud Contatos com MySql\obj\Debug\net7.0\Crud Contatos com MySql.csproj.CoreCompileInputs.cache
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\exemplos\Crud Contatos com MySql\obj\Debug\net7.0\Crud Contatos com MySql.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\exemplos\Crud Contatos com MySql\obj\Debug\net7.0\Crud Contatos com MySql.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\exemplos\Crud Contatos com MySql\obj\Debug\net7.0\staticwebassets\msbuild.Crud Contatos com MySql.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\exemplos\Crud Contatos com MySql\obj\Debug\net7.0\staticwebassets\msbuild.build.Crud Contatos com MySql.props
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\exemplos\Crud Contatos com MySql\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Crud Contatos com MySql.props
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\exemplos\Crud Contatos com MySql\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Crud Contatos com MySql.props
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\exemplos\Crud Contatos com MySql\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\exemplos\Crud Contatos com MySql\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\exemplos\Crud Contatos com MySql\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\exemplos\Crud Contatos com MySql\obj\Debug\net7.0\scopedcss\bundle\Crud Contatos com MySql.styles.css
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\exemplos\Crud Contatos com MySql\obj\Debug\net7.0\Crud Contatos com MySql.csproj.CopyComplete
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\exemplos\Crud Contatos com MySql\obj\Debug\net7.0\Crud Contatos com MySql.dll
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\exemplos\Crud Contatos com MySql\obj\Debug\net7.0\refint\Crud Contatos com MySql.dll
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\exemplos\Crud Contatos com MySql\obj\Debug\net7.0\Crud Contatos com MySql.pdb
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\exemplos\Crud Contatos com MySql\obj\Debug\net7.0\Crud Contatos com MySql.genruntimeconfig.cache
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\exemplos\Crud Contatos com MySql\obj\Debug\net7.0\ref\Crud Contatos com MySql.dll

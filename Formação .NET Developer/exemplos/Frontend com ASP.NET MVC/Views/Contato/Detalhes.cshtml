@@ -1,0 +1,24 @@
+@model Models.Contato
+
+@{
+    ViewData["Title"] = "Detalhes do Contato";
+}
+<h1>Detalhes de  @Html.DisplayFor(model=>model.Nome)</h1>
+
+<div>
+
+    <p>
+        @Html.DisplayNameFor(model=>model.Nome): @Html.DisplayFor(model=>model.Nome)
+    </p>
+
+    <p class="col-sm-2">
+        @Html.DisplayNameFor(model=>model.Telefone): @Html.DisplayFor(model=>model.Telefone)
+    </p>
+
+    <p class="col-sm-2">
+        @Html.DisplayNameFor(model=>model.Ativo): @Html.DisplayFor(model=>model.Ativo)
+    </p>
+
+    <a asp-action="Index">Voltar</a> | 
+    <a asp-action="Atualizar" asp-route-id="@Model.Id">Atualizar contato</a>
+</div>

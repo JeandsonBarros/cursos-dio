@@ -1,0 +1,75 @@
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\exemplos\Frontend com ASP.NET MVC\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\exemplos\Frontend com ASP.NET MVC\bin\Debug\net7.0\appsettings.json
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\exemplos\Frontend com ASP.NET MVC\bin\Debug\net7.0\Frontend com ASP.NET MVC.staticwebassets.runtime.json
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\exemplos\Frontend com ASP.NET MVC\bin\Debug\net7.0\Frontend com ASP.NET MVC.exe
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\exemplos\Frontend com ASP.NET MVC\bin\Debug\net7.0\Frontend com ASP.NET MVC.deps.json
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\exemplos\Frontend com ASP.NET MVC\bin\Debug\net7.0\Frontend com ASP.NET MVC.runtimeconfig.json
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\exemplos\Frontend com ASP.NET MVC\bin\Debug\net7.0\Frontend com ASP.NET MVC.dll
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\exemplos\Frontend com ASP.NET MVC\bin\Debug\net7.0\Frontend com ASP.NET MVC.pdb
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\exemplos\Frontend com ASP.NET MVC\obj\Debug\net7.0\Frontend com ASP.NET MVC.csproj.AssemblyReference.cache
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\exemplos\Frontend com ASP.NET MVC\obj\Debug\net7.0\Frontend com ASP.NET MVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\exemplos\Frontend com ASP.NET MVC\obj\Debug\net7.0\Frontend com ASP.NET MVC.AssemblyInfoInputs.cache
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\exemplos\Frontend com ASP.NET MVC\obj\Debug\net7.0\Frontend com ASP.NET MVC.AssemblyInfo.cs
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\exemplos\Frontend com ASP.NET MVC\obj\Debug\net7.0\Frontend com ASP.NET MVC.csproj.CoreCompileInputs.cache
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\exemplos\Frontend com ASP.NET MVC\obj\Debug\net7.0\Frontend com ASP.NET MVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\exemplos\Frontend com ASP.NET MVC\obj\Debug\net7.0\Frontend com ASP.NET MVC.RazorAssemblyInfo.cache
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\exemplos\Frontend com ASP.NET MVC\obj\Debug\net7.0\Frontend com ASP.NET MVC.RazorAssemblyInfo.cs
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\exemplos\Frontend com ASP.NET MVC\obj\Debug\net7.0\staticwebassets\msbuild.Frontend com ASP.NET MVC.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\exemplos\Frontend com ASP.NET MVC\obj\Debug\net7.0\staticwebassets\msbuild.build.Frontend com ASP.NET MVC.props
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\exemplos\Frontend com ASP.NET MVC\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Frontend com ASP.NET MVC.props
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\exemplos\Frontend com ASP.NET MVC\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Frontend com ASP.NET MVC.props
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\exemplos\Frontend com ASP.NET MVC\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\exemplos\Frontend com ASP.NET MVC\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\exemplos\Frontend com ASP.NET MVC\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\exemplos\Frontend com ASP.NET MVC\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\exemplos\Frontend com ASP.NET MVC\obj\Debug\net7.0\scopedcss\bundle\Frontend com ASP.NET MVC.styles.css
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\exemplos\Frontend com ASP.NET MVC\obj\Debug\net7.0\scopedcss\projectbundle\Frontend com ASP.NET MVC.bundle.scp.css
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\exemplos\Frontend com ASP.NET MVC\obj\Debug\net7.0\Frontend com ASP.NET MVC.dll
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\exemplos\Frontend com ASP.NET MVC\obj\Debug\net7.0\refint\Frontend com ASP.NET MVC.dll
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\exemplos\Frontend com ASP.NET MVC\obj\Debug\net7.0\Frontend com ASP.NET MVC.pdb
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\exemplos\Frontend com ASP.NET MVC\obj\Debug\net7.0\Frontend com ASP.NET MVC.genruntimeconfig.cache
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\exemplos\Frontend com ASP.NET MVC\obj\Debug\net7.0\ref\Frontend com ASP.NET MVC.dll
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\exemplos\Frontend com ASP.NET MVC\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\exemplos\Frontend com ASP.NET MVC\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\exemplos\Frontend com ASP.NET MVC\bin\Debug\net7.0\Humanizer.dll
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\exemplos\Frontend com ASP.NET MVC\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\exemplos\Frontend com ASP.NET MVC\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\exemplos\Frontend com ASP.NET MVC\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\exemplos\Frontend com ASP.NET MVC\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\exemplos\Frontend com ASP.NET MVC\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\exemplos\Frontend com ASP.NET MVC\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\exemplos\Frontend com ASP.NET MVC\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\exemplos\Frontend com ASP.NET MVC\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\exemplos\Frontend com ASP.NET MVC\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\exemplos\Frontend com ASP.NET MVC\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\exemplos\Frontend com ASP.NET MVC\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\exemplos\Frontend com ASP.NET MVC\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\exemplos\Frontend com ASP.NET MVC\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\exemplos\Frontend com ASP.NET MVC\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\exemplos\Frontend com ASP.NET MVC\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\exemplos\Frontend com ASP.NET MVC\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\exemplos\Frontend com ASP.NET MVC\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\exemplos\Frontend com ASP.NET MVC\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\exemplos\Frontend com ASP.NET MVC\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\exemplos\Frontend com ASP.NET MVC\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\exemplos\Frontend com ASP.NET MVC\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\exemplos\Frontend com ASP.NET MVC\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\exemplos\Frontend com ASP.NET MVC\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\exemplos\Frontend com ASP.NET MVC\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\exemplos\Frontend com ASP.NET MVC\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\exemplos\Frontend com ASP.NET MVC\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\exemplos\Frontend com ASP.NET MVC\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\exemplos\Frontend com ASP.NET MVC\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\exemplos\Frontend com ASP.NET MVC\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\exemplos\Frontend com ASP.NET MVC\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\exemplos\Frontend com ASP.NET MVC\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\exemplos\Frontend com ASP.NET MVC\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\exemplos\Frontend com ASP.NET MVC\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\exemplos\Frontend com ASP.NET MVC\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\exemplos\Frontend com ASP.NET MVC\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\exemplos\Frontend com ASP.NET MVC\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\exemplos\Frontend com ASP.NET MVC\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\exemplos\Frontend com ASP.NET MVC\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\exemplos\Frontend com ASP.NET MVC\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\exemplos\Frontend com ASP.NET MVC\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\exemplos\Frontend com ASP.NET MVC\obj\Debug\net7.0\Frontend com ASP.NET MVC.csproj.CopyComplete

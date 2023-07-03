@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Integrando APIs NET C# com Entity Framework.props" />
+</Project>

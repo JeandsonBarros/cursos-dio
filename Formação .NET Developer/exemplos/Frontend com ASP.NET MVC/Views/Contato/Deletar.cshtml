@@ -1,0 +1,13 @@
+@model Models.Contato;
+
+@{
+    ViewData["Title"] = "Deletar do Contato";
+}
+
+<h1>Deletar o contato @Html.DisplayFor(model=>model.Nome)</h1>
+<p>Deseja relmente deletar esse contato? essa ação é inrreversível.</p>
+<hr/>
+<form asp-action="Deletar">
+    <input type="submit" value="Deletar" class="btn btn-danger"/>
+    <a asp-action="Index" class="btn btn-info">Cancelar</a>
+</form>
