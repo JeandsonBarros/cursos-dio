@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "YMHPonCtlnCE2wNZkUlA2YxChZ281yC1TaTqQautyWc5MxnPwfZNG2uAgMg+0cysx2P85MqA7s8tP1fYRHDPYA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Jeandson\\Desktop\\dio\\cursos-dio\\Formação .NET Developer\\exemplos\\tipos_especiais\\nuget_serializar_e_atributos.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jeandson\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
