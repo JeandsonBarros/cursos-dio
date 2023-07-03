@@ -1,0 +1,15 @@
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\desafios\sistema_que_abstrai_um_celular_com_poo\bin\Debug\net7.0\DesafioPOO.exe
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\desafios\sistema_que_abstrai_um_celular_com_poo\bin\Debug\net7.0\DesafioPOO.deps.json
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\desafios\sistema_que_abstrai_um_celular_com_poo\bin\Debug\net7.0\DesafioPOO.runtimeconfig.json
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\desafios\sistema_que_abstrai_um_celular_com_poo\bin\Debug\net7.0\DesafioPOO.dll
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\desafios\sistema_que_abstrai_um_celular_com_poo\bin\Debug\net7.0\DesafioPOO.pdb
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\desafios\sistema_que_abstrai_um_celular_com_poo\obj\Debug\net7.0\DesafioPOO.csproj.AssemblyReference.cache
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\desafios\sistema_que_abstrai_um_celular_com_poo\obj\Debug\net7.0\DesafioPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\desafios\sistema_que_abstrai_um_celular_com_poo\obj\Debug\net7.0\DesafioPOO.AssemblyInfoInputs.cache
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\desafios\sistema_que_abstrai_um_celular_com_poo\obj\Debug\net7.0\DesafioPOO.AssemblyInfo.cs
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\desafios\sistema_que_abstrai_um_celular_com_poo\obj\Debug\net7.0\DesafioPOO.csproj.CoreCompileInputs.cache
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\desafios\sistema_que_abstrai_um_celular_com_poo\obj\Debug\net7.0\DesafioPOO.dll
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\desafios\sistema_que_abstrai_um_celular_com_poo\obj\Debug\net7.0\refint\DesafioPOO.dll
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\desafios\sistema_que_abstrai_um_celular_com_poo\obj\Debug\net7.0\DesafioPOO.pdb
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\desafios\sistema_que_abstrai_um_celular_com_poo\obj\Debug\net7.0\DesafioPOO.genruntimeconfig.cache
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\desafios\sistema_que_abstrai_um_celular_com_poo\obj\Debug\net7.0\ref\DesafioPOO.dll

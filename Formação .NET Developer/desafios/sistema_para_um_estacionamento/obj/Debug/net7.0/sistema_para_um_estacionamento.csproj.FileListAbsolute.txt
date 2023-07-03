@@ -1,0 +1,15 @@
+C:\Users\Jeandson\Desktop\dio\cursos-dio\formarção .net\sistema_para_um_estacionamento\bin\Debug\net7.0\sistema_para_um_estacionamento.exe
+C:\Users\Jeandson\Desktop\dio\cursos-dio\formarção .net\sistema_para_um_estacionamento\bin\Debug\net7.0\sistema_para_um_estacionamento.deps.json
+C:\Users\Jeandson\Desktop\dio\cursos-dio\formarção .net\sistema_para_um_estacionamento\bin\Debug\net7.0\sistema_para_um_estacionamento.runtimeconfig.json
+C:\Users\Jeandson\Desktop\dio\cursos-dio\formarção .net\sistema_para_um_estacionamento\bin\Debug\net7.0\sistema_para_um_estacionamento.dll
+C:\Users\Jeandson\Desktop\dio\cursos-dio\formarção .net\sistema_para_um_estacionamento\bin\Debug\net7.0\sistema_para_um_estacionamento.pdb
+C:\Users\Jeandson\Desktop\dio\cursos-dio\formarção .net\sistema_para_um_estacionamento\obj\Debug\net7.0\sistema_para_um_estacionamento.csproj.AssemblyReference.cache
+C:\Users\Jeandson\Desktop\dio\cursos-dio\formarção .net\sistema_para_um_estacionamento\obj\Debug\net7.0\sistema_para_um_estacionamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jeandson\Desktop\dio\cursos-dio\formarção .net\sistema_para_um_estacionamento\obj\Debug\net7.0\sistema_para_um_estacionamento.AssemblyInfoInputs.cache
+C:\Users\Jeandson\Desktop\dio\cursos-dio\formarção .net\sistema_para_um_estacionamento\obj\Debug\net7.0\sistema_para_um_estacionamento.AssemblyInfo.cs
+C:\Users\Jeandson\Desktop\dio\cursos-dio\formarção .net\sistema_para_um_estacionamento\obj\Debug\net7.0\sistema_para_um_estacionamento.csproj.CoreCompileInputs.cache
+C:\Users\Jeandson\Desktop\dio\cursos-dio\formarção .net\sistema_para_um_estacionamento\obj\Debug\net7.0\sistema_para_um_estacionamento.dll
+C:\Users\Jeandson\Desktop\dio\cursos-dio\formarção .net\sistema_para_um_estacionamento\obj\Debug\net7.0\refint\sistema_para_um_estacionamento.dll
+C:\Users\Jeandson\Desktop\dio\cursos-dio\formarção .net\sistema_para_um_estacionamento\obj\Debug\net7.0\sistema_para_um_estacionamento.pdb
+C:\Users\Jeandson\Desktop\dio\cursos-dio\formarção .net\sistema_para_um_estacionamento\obj\Debug\net7.0\sistema_para_um_estacionamento.genruntimeconfig.cache
+C:\Users\Jeandson\Desktop\dio\cursos-dio\formarção .net\sistema_para_um_estacionamento\obj\Debug\net7.0\ref\sistema_para_um_estacionamento.dll

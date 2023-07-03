@@ -1,0 +1,15 @@
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\desafios\sistemade_de_hospedagem\bin\Debug\net7.0\sistemade_de_hospedagem.exe
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\desafios\sistemade_de_hospedagem\bin\Debug\net7.0\sistemade_de_hospedagem.deps.json
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\desafios\sistemade_de_hospedagem\bin\Debug\net7.0\sistemade_de_hospedagem.runtimeconfig.json
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\desafios\sistemade_de_hospedagem\bin\Debug\net7.0\sistemade_de_hospedagem.dll
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\desafios\sistemade_de_hospedagem\bin\Debug\net7.0\sistemade_de_hospedagem.pdb
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\desafios\sistemade_de_hospedagem\obj\Debug\net7.0\sistemade_de_hospedagem.csproj.AssemblyReference.cache
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\desafios\sistemade_de_hospedagem\obj\Debug\net7.0\sistemade_de_hospedagem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\desafios\sistemade_de_hospedagem\obj\Debug\net7.0\sistemade_de_hospedagem.AssemblyInfoInputs.cache
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\desafios\sistemade_de_hospedagem\obj\Debug\net7.0\sistemade_de_hospedagem.AssemblyInfo.cs
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\desafios\sistemade_de_hospedagem\obj\Debug\net7.0\sistemade_de_hospedagem.csproj.CoreCompileInputs.cache
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\desafios\sistemade_de_hospedagem\obj\Debug\net7.0\sistemade_de_hospedagem.dll
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\desafios\sistemade_de_hospedagem\obj\Debug\net7.0\refint\sistemade_de_hospedagem.dll
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\desafios\sistemade_de_hospedagem\obj\Debug\net7.0\sistemade_de_hospedagem.pdb
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\desafios\sistemade_de_hospedagem\obj\Debug\net7.0\sistemade_de_hospedagem.genruntimeconfig.cache
+C:\Users\Jeandson\Desktop\dio\cursos-dio\Formação .NET Developer\desafios\sistemade_de_hospedagem\obj\Debug\net7.0\ref\sistemade_de_hospedagem.dll
