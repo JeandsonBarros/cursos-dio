@@ -1,0 +1,20 @@
+- Comandos: 
+	- Criar projeto: mvn archetype:generate -DgroupId=one.digitalinnovation -DartifactId=project-parent -Darchetype=maven-quickstart -DinteractiveMode=false
+	- Compilar as classes: mvn compile
+	- Testar a aplicação: mvn test
+	- Empacotar o software(projeto): mvn package
+	- Limpar diretório de trabalho(apagar a pasta target): mvn clean
+	- Publicar localmente um componente(projeto): C:\projeto> mvn install
+	- Ajuda: mvn dependency:help
+	- Gerar documentação do projeto usando o plugin javadoc: mvn javadoc:javadoc
+
+- Comandos para criar um projeto com vários módulos:
+	- mvn archetype:generate -DgroupId=one.digitalinnovation -DartifactId=multi-modulos -Darchetype=maven-quickstart -DinteractiveMode=false
+	- mvn archetype:generate -DgroupId=one.digitalinnovation -DartifactId=core -Darchetype=maven-quickstart -DinteractiveMode=false
+	- mvn archetype:generate -DgroupId=one.digitalinnovation -DartifactId=service -Darchetype=maven-quickstart -DinteractiveMode=false
+	- mvn archetype:generate -DgroupId=one.digitalinnovation -DartifactId=controller -Darchetype=maven-quickstart -DinteractiveMode=false
+
+
+- Repository local: C:\Users\Jeandson\.m2\repository
+
+- Dica: Buscar por maven archetype list no google
