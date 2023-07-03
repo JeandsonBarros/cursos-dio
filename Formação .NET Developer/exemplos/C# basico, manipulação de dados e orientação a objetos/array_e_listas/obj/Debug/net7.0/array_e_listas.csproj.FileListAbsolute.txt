@@ -1,0 +1,15 @@
+C:\Users\Jeandson\Desktop\dio\array_e_listas\bin\Debug\net7.0\array_e_listas.exe
+C:\Users\Jeandson\Desktop\dio\array_e_listas\bin\Debug\net7.0\array_e_listas.deps.json
+C:\Users\Jeandson\Desktop\dio\array_e_listas\bin\Debug\net7.0\array_e_listas.runtimeconfig.json
+C:\Users\Jeandson\Desktop\dio\array_e_listas\bin\Debug\net7.0\array_e_listas.dll
+C:\Users\Jeandson\Desktop\dio\array_e_listas\bin\Debug\net7.0\array_e_listas.pdb
+C:\Users\Jeandson\Desktop\dio\array_e_listas\obj\Debug\net7.0\array_e_listas.csproj.AssemblyReference.cache
+C:\Users\Jeandson\Desktop\dio\array_e_listas\obj\Debug\net7.0\array_e_listas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jeandson\Desktop\dio\array_e_listas\obj\Debug\net7.0\array_e_listas.AssemblyInfoInputs.cache
+C:\Users\Jeandson\Desktop\dio\array_e_listas\obj\Debug\net7.0\array_e_listas.AssemblyInfo.cs
+C:\Users\Jeandson\Desktop\dio\array_e_listas\obj\Debug\net7.0\array_e_listas.csproj.CoreCompileInputs.cache
+C:\Users\Jeandson\Desktop\dio\array_e_listas\obj\Debug\net7.0\array_e_listas.dll
+C:\Users\Jeandson\Desktop\dio\array_e_listas\obj\Debug\net7.0\refint\array_e_listas.dll
+C:\Users\Jeandson\Desktop\dio\array_e_listas\obj\Debug\net7.0\array_e_listas.pdb
+C:\Users\Jeandson\Desktop\dio\array_e_listas\obj\Debug\net7.0\array_e_listas.genruntimeconfig.cache
+C:\Users\Jeandson\Desktop\dio\array_e_listas\obj\Debug\net7.0\ref\array_e_listas.dll
