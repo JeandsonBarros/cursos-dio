@@ -60,9 +60,11 @@ namespace Frontend_com_ASP.NET_MVC.Controllers
         }
 
         /* [HttpPost("Atualizar")] */
-        [HttpPost]
-        public IActionResult Atualizar(Contato contato)
+        /* [HttpPost] */
+        public IActionResult Atualizar(int id, Contato contato)
         {
+            
+
             if (ModelState.IsValid)
             {
                 _agendaContext.Contatos.Update(contato);
@@ -103,11 +105,17 @@ namespace Frontend_com_ASP.NET_MVC.Controllers
         [HttpPost]
         public IActionResult Deletar(Contato contato)
         {
+            
             var contatoBanco = _agendaContext.Contatos.Find(contato.Id);
+            if (contatoBanco == null)
+            {
+               return RedirectToAction(nameof(Index));
+            }
+
             _agendaContext.Contatos.Remove(contatoBanco);
             _agendaContext.SaveChanges();
 
-            return RedirectToAction(nameof(Index)); ;
+            return RedirectToAction(nameof(Index));
         }
 
     }

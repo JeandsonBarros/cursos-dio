@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Jeandson\\Desktop\\dio\\estrutura _e_um_programa\\ExemploFundamentos\\dio.csproj": {}
+    "c:\\Users\\Jeandson\\Desktop\\dio\\cursos-dio\\Formação .NET Developer\\exemplos\\C# basico, manipulação de dados e orientação a objetos\\estrutura _de_um_programa\\ExemploFundamentos\\dio.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Jeandson\\Desktop\\dio\\estrutura _e_um_programa\\ExemploFundamentosCommons\\ExemploLibrary.csproj": {
+    "c:\\Users\\Jeandson\\Desktop\\dio\\cursos-dio\\Formação .NET Developer\\exemplos\\C# basico, manipulação de dados e orientação a objetos\\estrutura _de_um_programa\\ExemploFundamentosCommons\\ExemploLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jeandson\\Desktop\\dio\\estrutura _e_um_programa\\ExemploFundamentosCommons\\ExemploLibrary.csproj",
+        "projectUniqueName": "c:\\Users\\Jeandson\\Desktop\\dio\\cursos-dio\\Formação .NET Developer\\exemplos\\C# basico, manipulação de dados e orientação a objetos\\estrutura _de_um_programa\\ExemploFundamentosCommons\\ExemploLibrary.csproj",
         "projectName": "ExemploLibrary",
-        "projectPath": "C:\\Users\\Jeandson\\Desktop\\dio\\estrutura _e_um_programa\\ExemploFundamentosCommons\\ExemploLibrary.csproj",
+        "projectPath": "c:\\Users\\Jeandson\\Desktop\\dio\\cursos-dio\\Formação .NET Developer\\exemplos\\C# basico, manipulação de dados e orientação a objetos\\estrutura _de_um_programa\\ExemploFundamentosCommons\\ExemploLibrary.csproj",
         "packagesPath": "C:\\Users\\Jeandson\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jeandson\\Desktop\\dio\\estrutura _e_um_programa\\ExemploFundamentosCommons\\obj\\",
+        "outputPath": "c:\\Users\\Jeandson\\Desktop\\dio\\cursos-dio\\Formação .NET Developer\\exemplos\\C# basico, manipulação de dados e orientação a objetos\\estrutura _de_um_programa\\ExemploFundamentosCommons\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Jeandson\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -57,14 +57,14 @@
         }
       }
     },
-    "C:\\Users\\Jeandson\\Desktop\\dio\\estrutura _e_um_programa\\ExemploFundamentos\\dio.csproj": {
+    "c:\\Users\\Jeandson\\Desktop\\dio\\cursos-dio\\Formação .NET Developer\\exemplos\\C# basico, manipulação de dados e orientação a objetos\\estrutura _de_um_programa\\ExemploFundamentos\\dio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jeandson\\Desktop\\dio\\estrutura _e_um_programa\\ExemploFundamentos\\dio.csproj",
+        "projectUniqueName": "c:\\Users\\Jeandson\\Desktop\\dio\\cursos-dio\\Formação .NET Developer\\exemplos\\C# basico, manipulação de dados e orientação a objetos\\estrutura _de_um_programa\\ExemploFundamentos\\dio.csproj",
         "projectName": "dio",
-        "projectPath": "C:\\Users\\Jeandson\\Desktop\\dio\\estrutura _e_um_programa\\ExemploFundamentos\\dio.csproj",
+        "projectPath": "c:\\Users\\Jeandson\\Desktop\\dio\\cursos-dio\\Formação .NET Developer\\exemplos\\C# basico, manipulação de dados e orientação a objetos\\estrutura _de_um_programa\\ExemploFundamentos\\dio.csproj",
         "packagesPath": "C:\\Users\\Jeandson\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jeandson\\Desktop\\dio\\estrutura _e_um_programa\\ExemploFundamentos\\obj\\",
+        "outputPath": "c:\\Users\\Jeandson\\Desktop\\dio\\cursos-dio\\Formação .NET Developer\\exemplos\\C# basico, manipulação de dados e orientação a objetos\\estrutura _de_um_programa\\ExemploFundamentos\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Jeandson\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -79,8 +79,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\Jeandson\\Desktop\\dio\\estrutura _e_um_programa\\ExemploFundamentosCommons\\ExemploLibrary.csproj": {
-                "projectPath": "C:\\Users\\Jeandson\\Desktop\\dio\\estrutura _e_um_programa\\ExemploFundamentosCommons\\ExemploLibrary.csproj"
+              "c:\\Users\\Jeandson\\Desktop\\dio\\cursos-dio\\Formação .NET Developer\\exemplos\\C# basico, manipulação de dados e orientação a objetos\\estrutura _de_um_programa\\ExemploFundamentosCommons\\ExemploLibrary.csproj": {
+                "projectPath": "c:\\Users\\Jeandson\\Desktop\\dio\\cursos-dio\\Formação .NET Developer\\exemplos\\C# basico, manipulação de dados e orientação a objetos\\estrutura _de_um_programa\\ExemploFundamentosCommons\\ExemploLibrary.csproj"
               }
             }
           }

@@ -86,6 +86,7 @@ namespace Controllers
             }
 
             _context.Contatos.Remove(contatoBanco);
+            _context.SaveChanges();
 
             return NoContent();
 

@@ -5,7 +5,7 @@
 `dotnet add package Microsoft.EntityFrameworkCore.Design`
 
 - Provedor de banco de dados Microsoft SQL Server para Entity Framework Core.
-`dotnet add package Microsoft.EntityFrameworkCore.SqlServer --version 7.0.8`
+`dotnet add package Microsoft.EntityFrameworkCore.SqlServer`
 
 - Criar uma migração, ou seja, prepara o esquema para o banco de dados
 `dotnet-ef migrations add CriacaoTabelaContato`

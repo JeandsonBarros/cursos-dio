@@ -3,17 +3,18 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.EntityFrameworkCore;
-using Models;
+using Schedule.Models;
 
-namespace Agenda.Context
+namespace Schedule.Context
 {
-    public class AgendaContext : DbContext
+    public class ScheduleContext : DbContext
     {
-        public AgendaContext(DbContextOptions<AgendaContext> options): base(options){
+        public ScheduleContext(DbContextOptions<ScheduleContext> options): base(options){
 
         }
 
-        public DbSet<Contato> Contatos {get; set; }
+        public DbSet<Contact> Contact {get; set; }
+        public DbSet<User> User {get; set; }
 
     }
 }

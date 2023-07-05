@@ -1,23 +1,24 @@
-using Agenda.Context;
+using Schedule.Context;
 using Microsoft.EntityFrameworkCore;
-using Services;
+using Schedule.Services;
 
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
-string mySqlConnection = builder.Configuration.GetConnectionString("ConexaoPadrao");
-builder.Services.AddDbContext<AgendaContext>(options =>
+string mySqlConnection = builder.Configuration.GetConnectionString("DefaultConnection");
+builder.Services.AddDbContext<ScheduleContext>(options =>
 options.UseMySql(mySqlConnection, ServerVersion.AutoDetect(mySqlConnection))
 .LogTo(Console.WriteLine, LogLevel.Information)
                 .EnableSensitiveDataLogging()
                 .EnableDetailedErrors()
 );
 
-/*Registrar serviço de contatos,
-para que tudo que for adicionado em builder tenha acesso a uma instacia de ContatoService,
-e ContatoService tenha acesso a tudo que foi adionado a builder,
-ou seja tudo tem acesso a tudo. */
-builder.Services.AddScoped<ContatoService>();
+/*register services,
+so that everything added in the builder has access to an instance of services,
+and the registered service has access to everything added to the constructor,
+that is, everything has access to everything.*/
+builder.Services.AddScoped<ContactService>();
+builder.Services.AddScoped<UserService>();
 
 builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle

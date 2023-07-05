@@ -13,3 +13,5 @@
 -- Execulta a migração criadando o banco de dados e as tabelas
 `dotnet ef database update`
 
+
+https://marcoswoc.net/autenticacao-e-autorizacao-jwt-em-uma-api-net-6-0/

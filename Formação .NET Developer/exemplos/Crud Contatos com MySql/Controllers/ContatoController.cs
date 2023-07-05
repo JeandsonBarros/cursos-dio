@@ -2,96 +2,85 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
-using Agenda.Context;
 using Microsoft.AspNetCore.Mvc;
-using Models;
-using Services;
+using Schedule.Models;
+using Schedule.Services;
+using Schedule.CustomExceptions;
 
 namespace Controllers
 {
     [ApiController]
-    [Route("api/contato")]
-    public class ContatoController : ControllerBase
+    [Route("api/contact")]
+    public class ContactController : ControllerBase
     {
-        private readonly AgendaContext _context;
-        private readonly ContatoService _contatoService;
 
-        public ContatoController(AgendaContext agendaContext,  ContatoService contatoService)
+        private readonly ContactService _contatoService;
+        public ContactController(ContactService contatoService)
         {
-            _context = agendaContext;
             _contatoService = contatoService;
         }
 
-        [HttpGet()]
-        public IActionResult ObterTodos()
+        [HttpGet]
+        public IActionResult GetAllContacts()
         {
-            var contatos = _context.Contatos;
-            return Ok(contatos);
+            var contacts = _contatoService.SelectAllContacts();
+            return Ok(contacts);
         }
 
-        [HttpGet("ObterPorNome")]
-        public IActionResult ObterPorNome(string nome)
+        [HttpGet("find-by-name/{name}")]
+        public IActionResult GetContactByName(string name)
         {
-            var contatos = _context.Contatos.Where(contato => contato.Nome.Contains(nome));
-            return Ok(contatos);
+            var contacts = _contatoService.SelectContactByName(name);
+            return Ok(contacts);
         }
 
         [HttpPost]
-        public IActionResult Create(Contato contato)
+        public IActionResult PostContact(Contact contact)
         {
-            _context.Add(contato);
-            _context.SaveChanges();
-            return CreatedAtAction(nameof(ObterPorId), new { id = contato.Id }, contato);
+            _contatoService.CreateContact(contact);
+            return CreatedAtAction(nameof(GetById), new { id = contact.Id }, contact);
         }
 
         [HttpGet("{id}")]
-        public IActionResult ObterPorId(int id)
-        {_contatoService.Teste(id);
-            var contato = _context.Contatos.Find(id);
-
-            if (contato == null)
+        public IActionResult GetById(int id)
+        {
+            try
             {
-                return NotFound();
+                var contact = _contatoService.SelectContactById(id);
+                return Ok(contact);
             }
-
-            return Ok(contato);
+            catch (NotFoundException ex)
+            {
+                return NotFound(new MessageResponse(ex.Message, NotFound().StatusCode, DateTime.Now));
+            }
         }
 
         [HttpPut("{id}")]
-        public IActionResult Atualizar(int id, Contato contato)
+        public IActionResult PutContact(int id, Contact contact)
         {
-            var contatoBanco = _context.Contatos.Find(id);
-
-            if (contatoBanco == null)
+            try
             {
-                return NotFound();
+                _contatoService.UpdateContact(id, contact);
+                return Ok(contact);
             }
-
-            contatoBanco.Ativo = contato.Ativo;
-            contatoBanco.Nome = contato.Nome;
-            contatoBanco.Telefone = contato.Telefone;
-
-            _context.Contatos.Update(contatoBanco);
-            _context.SaveChanges();
-
-            return Ok(contatoBanco);
-
+            catch (NotFoundException ex)
+            {
+                return NotFound(new MessageResponse(ex.Message, NotFound().StatusCode, DateTime.Now));
+            }
         }
 
         [HttpDelete("{id}")]
-        public IActionResult Delete(int id)
+        public IActionResult DeleteContact(int id)
         {
-            var contatoBanco = _context.Contatos.Find(id);
-
-            if (contatoBanco == null)
+            try
             {
-                return NotFound();
+                _contatoService.DeleteContact(id);
+                return NoContent();
             }
-
-            _context.Contatos.Remove(contatoBanco);
-
-            return NoContent();
-
+            catch (NotFoundException ex)
+            {
+                return NotFound(new MessageResponse(ex.Message, NotFound().StatusCode, DateTime.Now));
+            }
         }
 
     }
