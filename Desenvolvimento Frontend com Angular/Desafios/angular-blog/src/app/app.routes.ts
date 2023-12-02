@@ -6,7 +6,8 @@ import { Error404Component } from './pages/error404/error404.component';
 export const routes: Routes = [
     {
         path: "",
-        component: HomeComponent
+        component: HomeComponent,
+        pathMatch: "full" 
     },
     {
         path: "post/:id/:title",
@@ -15,8 +16,6 @@ export const routes: Routes = [
     {
         path: "**",
         redirectTo: "page-not-found",
-        pathMatch: "full"
-        
     },
     {
         path: "page-not-found",
