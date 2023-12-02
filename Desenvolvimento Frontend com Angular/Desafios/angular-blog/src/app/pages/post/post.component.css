@@ -1,0 +1,22 @@
+article {
+    margin: 10px auto;
+    max-width: 700px;
+    height: 100%; 
+    background: #141414;
+}
+
+img{
+    object-fit: cover;
+    max-height: 500px;
+    width: 100%;
+}
+
+h1,p{
+    padding: 10px;
+}
+
+h1 {
+    font-size: 2rem;
+}
+
+p {}

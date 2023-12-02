@@ -1,0 +1,13 @@
+<a 
+    [routerLink]="['post', post.id, titleToUrl]" 
+    class="bigCard"
+>
+    <img  
+        [src]=" post.photoCover || 'https://flowbite.com/docs/images/examples/image-1@2x.jpg'" 
+        [alt]=" post.title"
+    >
+
+    <h1 class="title"> {{ post.title }} </h1>
+
+    <p class="subtitle"> {{ post.content }} </p>
+</a>

@@ -1,0 +1,11 @@
+@media only screen and (max-width: 600px) {
+    .smallCard {
+        flex-direction: column;
+    }
+
+    .smallCard>img {
+        object-fit: cover;
+        width: 100%;
+        height: 300px;
+    }
+}

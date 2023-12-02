@@ -1,0 +1,15 @@
+<app-menu-title />
+
+<main>
+
+    <section>
+        <app-big-card [post]="posts[0]" />
+    </section>
+
+    <aside>
+        @for(post of posts; track $index){
+            @if($index!=0){ <app-small-card [post]="post" />}
+        }
+    </aside>
+
+</main>

@@ -1,0 +1,27 @@
+.smallCard {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    text-decoration: none;
+    margin-bottom: 20px;
+    padding-bottom: 10px;
+    border-bottom: 1px solid rgba(128, 128, 128, 0.512);
+}
+
+.smallCard:hover {
+    background: #111111;
+    box-shadow: 5px 5px 15px #202020
+}
+
+.smallCard>img {
+    object-fit: cover;
+    height: 170px;
+    width: 280px;
+    min-height: 170px;
+    min-width: 280px;
+}
+
+.title {
+    margin: 10px;
+    color: white;
+}

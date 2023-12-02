@@ -1,0 +1,12 @@
+.containerMenuTitle{
+    width: 100%;
+}
+
+.containerMenuTitle > h1{
+    margin: 10px;
+    font-size: 8rem;
+    border-width: 1px 0px;
+    text-align: center;
+    border-style: solid;
+    border-color: rgba(128, 128, 128, 0.512);
+}

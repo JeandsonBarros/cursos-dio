@@ -1,0 +1,50 @@
+<h1>{{title}}</h1>
+<input [(ngModel)]="title">
+
+<hr>
+
+<nav>
+  <a routerLink="/">Home</a> -
+  <a routerLink="auth/login">Login</a> -
+  <a routerLink="auth/register">Register</a>
+</nav>
+
+<router-outlet></router-outlet>
+
+<hr>
+
+<hr>
+
+@if(isLoading){
+<p>Carregando</p>
+}@else {
+<p>Carregado</p>
+}
+
+<hr>
+
+@switch (status) {
+@case ("error") {
+<p>Error</p>
+}
+@case ("sucesso") {
+<p>Sucesso</p>
+}
+}
+
+<hr>
+
+@for(carro of carros; track $index) {
+
+<h1 #marca>{{carro.marca}}</h1>
+
+@defer(on viewport(marca)){
+
+@for(modelo of carro.modelos; track $index){
+<p>{{modelo}}</p>
+}
+
+}
+}
+
+<hr>
