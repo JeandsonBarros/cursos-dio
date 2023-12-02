@@ -1,0 +1,25 @@
+<div class="quizzContainer">
+    <div class="quizzLogo">
+        <img src="assets/imgs/logo.png" alt="">
+        <h3>{{title}}</h3>
+    </div>
+
+    @if(!finished){
+        <div class="quizzQuestions">
+            <h3>{{questionSelected.question}}</h3>
+        </div>
+
+        <div class="quizzOptions">
+            @for(option of questionSelected.options; track $index){
+                <button (click)="playerChoose(option.alias)" class="btn-option">{{option.name}}</button>
+            }    
+        </div>
+    }
+
+    @if(finished){
+        <div class="quizzResults">
+            <h1>O seu resultado é:</h1>
+            <p>{{answerSelected}}</p>       
+        </div>
+    }
+</div>
